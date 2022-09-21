@@ -12,5 +12,3 @@ This is a collection of codes developed at a online bootcamp, the current codes 
 ### GUI Flash Card Languages
 ### GUI Computer Science Quizzler 
 ### GUI Pomodoro Timer 
-
-
